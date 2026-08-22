@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "697222549397",
-    "project_id": "fir-app-cc675",
-    "storage_bucket": "fir-app-cc675.firebasestorage.app"
+    "project_number": "627893727520",
+    "project_id": "fir-app-c8eeb",
+    "storage_bucket": "fir-app-c8eeb.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:697222549397:android:b32d360c7d4c3d6a10709c",
+        "mobilesdk_app_id": "1:627893727520:android:04366f712eeab450c3a745",
         "android_client_info": {
           "package_name": "com.example.firebase_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCQnZ0zt1APd0UAJLVHyDhm42iTBXqM1Go"
+          "current_key": "AIzaSyBcA7K39lNv_6JW76uuKoy034bKxAFULCo"
         }
       ],
       "services": {
